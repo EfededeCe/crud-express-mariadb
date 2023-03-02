@@ -12,3 +12,5 @@ CREATE TABLE empleados (
 SHOW TABLE;
 
 DESCRIBE empleados;
+
+SELECT * FROM empleados;
